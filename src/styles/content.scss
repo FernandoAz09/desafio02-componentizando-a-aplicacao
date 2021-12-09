@@ -16,7 +16,9 @@ header {
   }
 
   span {
-    color: var(--white);
+    color: var(--red);
+    text-shadow: 0 0 0.9em rgb(255, 0, 0);
+
   }
 }
 
